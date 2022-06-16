@@ -1,0 +1,10 @@
+{
+  "expoServerNgrokUrl": "https://x7-dq8.anonymous.native-project.exp.direct",
+  "packagerNgrokUrl": "https://x7-dq8.anonymous.native-project.exp.direct",
+  "ngrokPid": 10804,
+  "expoServerPort": 19000,
+  "packagerPort": 19000,
+  "packagerPid": null,
+  "webpackServerPort": null,
+  "devToolsPort": 19002
+}
